@@ -1129,7 +1129,7 @@ def tempfolder():
 
 def start_annotation_tool():
     dirname = os.path.normpath(
-        os.path.join(os.path.abspath(os.path.dirname(__file__)), "tempannotations")
+        (os.path.abspath(os.path.dirname(__file__)))
     )
 
     annotationtoolfiles = [
