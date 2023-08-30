@@ -1,6 +1,5 @@
 a_cv2_easy_resize
 a_cv_imwrite_imread_plus
-cupy_cuda12x
 downloadunzip
 intersectioncalc
 list_all_files_recursively
