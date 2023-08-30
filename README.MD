@@ -2,6 +2,11 @@
 
 ## pip install tmplmatching
 
+Tutorial (Brazilian Portugues)
+
+[![YT](https://i.ytimg.com/vi/KXYFTgS_A1Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=KXYFTgS_A1Q)
+[https://www.youtube.com/watch?v=KXYFTgS_A1Q]()
+
 ### Advantages:
 
 - Uses a tuned match_template algorithm from scipy (numexpr instead of numpy / different fftconvolve algorithms)
